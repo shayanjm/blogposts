@@ -36,7 +36,7 @@ Thankfully I was really involved in science fair throughout 9th-12th grades (Int
 
 *Not a fan of sitting around and getting lectured at about subjects they'll never touch again. Always asking "why?", and seeking to build amazing things. Self initiated learner, and primarily self-taught.*
 
-So apparently, innovation is present even at the high school level. There is an abundance of students with potential, which goes by unnoticed because our current high school framework doesn't support the growth of intellectual curiousity. 
+So apparently, innovation is present even at the high school level, whether through an external "shove" - or an internal struggle. There is an abundance of students with potential, which goes by unnoticed because our current high school framework doesn't support the growth of intellectual curiousity. 
 
 So where's the innovation in High School curriculum? 
 
