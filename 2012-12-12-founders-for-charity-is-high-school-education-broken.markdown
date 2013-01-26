@@ -4,7 +4,7 @@ title: "High School is Broken"
 date: 2012-12-12 20:11
 comments: true
 categories: [Education, Innovation, School]
-published: false
+published: true
 ---
 I sat here thinking for a while, "How should I even go about phrasing this post?". I mean, it's a bold claim - but it's one we all know is true in some way or another. High School Education *is* broken. As entrepreneurs, when something is broken - we have to fix it.
 <!-- more -->
