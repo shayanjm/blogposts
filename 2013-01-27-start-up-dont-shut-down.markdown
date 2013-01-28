@@ -8,3 +8,6 @@ published: false
 ---
 Draft
 =====
++ Build a solution, not a company.
++ Solve problems you face, and scale to become general.
+
